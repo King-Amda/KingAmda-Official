@@ -1,6 +1,6 @@
 # Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am Syber Tech...
 
-<img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" style="max-width:100%;">
+<img src="https://telegra.ph/file/8735eaafd545d5a17f6b9.jpg" style="max-width:100%;">
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -73,7 +73,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://github.com/Syber-Tech"><img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" width="150px" height="150px" /></a> |
+| <a href="https://github.com/Syber-Tech"><img src="https://telegra.ph/file/8735eaafd545d5a17f6b9.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       ** Syber Tech **
 
