@@ -50,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 <p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"  src=" https://www.vectorlogo.zone/logos/php/php-vertical.svg "></code>                                         <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
